@@ -1,2 +1,2 @@
 # testProject
-testProject newBranch1
+testProject newBranch2
